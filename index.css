@@ -1,0 +1,32 @@
+body {
+  background-image: url("sh.jpg")
+
+}
+body {
+  color: rgb(250, 247, 247);
+}
+body h1{
+  font-size: 55px;
+}
+body h2{
+  font-size: 40px;
+}
+body p{
+  font-size: 40px;
+}
+body{
+  font-size: larger;
+}
+body {
+  font-size: 30px;
+}
+body
+{
+    <marquee width="200%" direction="up" height="100%">
+ <CENTER>Admission Open Call Now 9982460377</CENTER>
+    </marquee>
+}
+body
+* {
+  property : value;
+}
